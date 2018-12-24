@@ -4,4 +4,8 @@
 
 [https://ai100.cupoy.com/](https://ai100.cupoy.com/)
 
+2018/12/19
 使用 GitKraken 編輯
+
+2018/12/25
+使用 GitHub Desktop 編輯
